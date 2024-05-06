@@ -72,6 +72,8 @@ plt.legend()
 ![172998888-d8d50c99-e309-488f-9331-09609a6020bd](https://github.com/Ajaydon420/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/161410969/7e80800f-22c7-4fdc-bc85-53e754713deb)
 ![172998937-0d9847ff-c1bf-4d34-aad9-e0d5dc101aaf](https://github.com/Ajaydon420/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/161410969/ad2e900e-cda1-406e-9593-3f3537afdcad)
 ![172998949-ad7d15ef-60ad-47ce-8a9d-de7b8d86077f](https://github.com/Ajaydon420/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/161410969/dffd1e34-ece7-45b8-a374-fc478e5e1462)
+![172998962-3382c0e7-4738-4f90-aeed-988eaeddf9de](https://github.com/Ajaydon420/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/161410969/542ef977-113d-4b3d-933b-65aae50a0f87)
+![172998996-eb63e21c-32ed-4be8-a303-5b4767e33ef0](https://github.com/Ajaydon420/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/161410969/7c9be0b4-e92f-4768-b250-dd2691d5f6b9)
 
 
 ## Result:
